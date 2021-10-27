@@ -12,6 +12,3 @@ FHG-Tech
 
 Link para o Video de explicação:
 https://youtu.be/odPjH0svsi8
-
-Link para protótipos no figma:
-https://www.figma.com/file/f1FoaUMNfIkjqQJuHmkMKE/Untitled
